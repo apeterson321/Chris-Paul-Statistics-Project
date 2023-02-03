@@ -1,1 +1,1 @@
-# Chris-Paul-Statistics-Project
+# Chris Paul Linear Regression Project
